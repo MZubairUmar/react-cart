@@ -12,7 +12,7 @@ const Navigation = () => {
         <>
            <nav className=" container mx-auto flex items-center justify-between py-4">
             <Link to="/">
-                <img style={{height: 45}} src="/images/1641344382_1045091.png" alt="logo"/>
+                <img style={{height: 45}} src="/images/pizza4.png" alt="logo"/>
             </Link>
             <ul className="flex items-center">
                 <li ><Link to="/">Home</Link></li>
