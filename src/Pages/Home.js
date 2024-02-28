@@ -1,4 +1,4 @@
-import Productslist from '../components/Productslist';
+import Products from '../components/Products';
 
 const Home =()=>{
     return (
@@ -17,7 +17,7 @@ const Home =()=>{
             </div>
         </div>
         <div className="pb-24">
-            <Productslist/>
+            <Products/>
         </div>
         </>
     )
